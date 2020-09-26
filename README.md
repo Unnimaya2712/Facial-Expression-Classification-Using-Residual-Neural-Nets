@@ -10,6 +10,6 @@ Here we bulid a deep neural network to detect facial expressions in images. We p
     
     To install the dependencies :
 
-    chmod +x dependencies.sh
-    ./dependencies.sh
+    chmod +x Dependencies.sh
+    ./Dependencies.sh
 
