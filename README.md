@@ -7,3 +7,9 @@ Here we bulid a deep neural network to detect facial expressions in images. We p
     • Perform image Augmentation, normalization and splitting
     • Build Deep Residual Neural Networks 
     • Assess/evaluate trained model performance
+    
+    To install the dependencies :
+
+    chmod +x dependencies.sh
+    ./dependencies.sh
+
